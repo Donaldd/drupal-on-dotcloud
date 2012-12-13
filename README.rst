@@ -19,7 +19,7 @@ Then clone this repository, and push it to dotCloud::
   $ dotcloud push
 
 To view your Drupal site running on dotCloud en finalize your Drupal setup 
-simply run:
+simply run::
   $ dotcloud open
 
 Happy hacking! Remember: each time you modify something, you need to
@@ -29,4 +29,4 @@ git add + git commit your changes before doing ``dotcloud push``.
 You can also learn more by diving into `dotCloud documentations
 <http://docs.dotcloud.com/>`_, especially the two for the `PHP service
 <http://docs.dotcloud.com/services/php/>`_ and `MySQL service 
-http://docs.dotcloud.com/0.9/services/mysql/>`_ which is used by this app.
+<http://docs.dotcloud.com/0.9/services/mysql/>`_ which is used by this app.
