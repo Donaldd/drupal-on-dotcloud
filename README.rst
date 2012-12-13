@@ -7,7 +7,7 @@ It works out of the box follow these easy steps and in the end you'll have
 your Drupal site running on dotCloud.
 
 To run this code on dotCloud, you need a FREE `dotCloud account
-<https://www.dotcloud.com/accounts/register/>`_ .
+<https://www.dotcloud.com/register.html>`_ .
 
 Install our `CLI
 <http://docs.dotcloud.com/0.9/firststeps/install/>`_ 
