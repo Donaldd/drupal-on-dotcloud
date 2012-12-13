@@ -208,7 +208,7 @@ $databases = array();
 
 $databases['default']['default'] = array(
   'driver' => 'mysql',
-  'database' => 'mysql',
+  'database' => 'drupal',
   'username' => $env['DOTCLOUD_DB_MYSQL_LOGIN'],
   'password' => $env['DOTCLOUD_DB_MYSQL_PASSWORD'],
   'host' => $env['DOTCLOUD_DB_MYSQL_HOST'],

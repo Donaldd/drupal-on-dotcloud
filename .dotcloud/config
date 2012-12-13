@@ -2,5 +2,5 @@
     "push_branch": null, 
     "application": "mydrupalapp", 
     "version": "0.9.1", 
-    "push_protocol": "rsync"
+    "push_protocol": "git"
 }
