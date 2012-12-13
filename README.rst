@@ -16,6 +16,7 @@ Then clone this repository, and push it to dotCloud::
 
   $ git clone git://github.com/Donaldd/drupal-on-dotcloud.git
   $ cd drupal-on-dotcloud
+  $ dotcloud create mydrupalapp
   $ dotcloud push
 
 To view your Drupal site running on dotCloud en finalize your Drupal setup 
