@@ -23,9 +23,7 @@ Your Drupal site is now running on dotCloud, to finalize your Drupal setup
 simply run::
   $ dotcloud open
 
-Happy hacking! Remember: each time you modify something, you need to
-git add + git commit your changes before doing ``dotcloud push``.
-
+Happy hacking!
 
 You can also learn more by diving into `dotCloud documentations
 <http://docs.dotcloud.com/>`_, especially the two for the `PHP service
