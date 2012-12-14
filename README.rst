@@ -22,7 +22,7 @@ Then clone this repository, and push it to dotCloud::
 Next you need to create your database with the following commands::
   $ dotcloud run db -- mysql
   $ CREATE DATABASE drupal
-  $ quit
+  $ /q
 
 Your Drupal site is now running on dotCloud to finalize your Drupal setup 
 simply run::
