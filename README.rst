@@ -19,7 +19,6 @@ Then clone this repository, and push it to dotCloud::
   $ dotcloud create mydrupalapp --git
   $ dotcloud push
 
-
 Next you need to create your database with the following commands::
   $ dotcloud run db -- mysql
   $ CREATE DATABASE drupal;
