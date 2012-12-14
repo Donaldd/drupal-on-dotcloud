@@ -19,7 +19,13 @@ Then clone this repository, and push it to dotCloud::
   $ dotcloud create mydrupalapp --git
   $ dotcloud push
 
-To view your Drupal site running on dotCloud en finalize your Drupal setup 
+
+Next you need to create your database with the following commands::
+	$ dotcloud run db -- mysql
+	$ CREATE DATABASE drupal;
+	$ quit
+
+Your Drupal site is now running on dotCloud to finalize your Drupal setup 
 simply run::
   $ dotcloud open
 
