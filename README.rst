@@ -19,6 +19,7 @@ Then clone this repository, and push it to dotCloud::
   dotcloud push
 
 Your Drupal site is now running on dotCloud, to finalize your Drupal setup simply run::
+
   dotcloud open
 
 Happy hacking!
