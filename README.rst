@@ -1,27 +1,25 @@
 Drupal on dotCloud
 ==================
 
-This is the easiest way to launch a Drupal website on dotCloud it takes 
+This is the easiest way to launch a Drupal website on dotCloud, it takes 
 less than 2 minutes to get your Drupal site in the Cloud.
-It works out of the box follow these easy steps and in the end you'll have
-your Drupal site running on dotCloud.
+It works out of the box, just follow these easy steps and in the end you'll have your Drupal site running on dotCloud.
 
 To run this code on dotCloud, you need a FREE `dotCloud account
 <https://www.dotcloud.com/register.html>`_ .
 
-Install our `CLI
+Install the `CLI
 <http://docs.dotcloud.com/0.9/firststeps/install/>`_ 
 (Command Line Interface)
 Then clone this repository, and push it to dotCloud::
 
-  $ git clone git://github.com/Donaldd/drupal-on-dotcloud.git
-  $ cd drupal-on-dotcloud
-  $ dotcloud create mydrupalapp 
-  $ dotcloud push
+  git clone git://github.com/Donaldd/drupal-on-dotcloud.git
+  cd drupal-on-dotcloud
+  dotcloud create mydrupalapp 
+  dotcloud push
 
-Your Drupal site is now running on dotCloud, to finalize your Drupal setup 
-simply run::
-  $ dotcloud open
+Your Drupal site is now running on dotCloud, to finalize your Drupal setup simply run::
+  dotcloud open
 
 Happy hacking!
 
