@@ -1,6 +1,8 @@
 Drupal on dotCloud
 ==================
 
+Currently working!!! Don't hesitate to contact me when something breaks or needs an update.
+
 This is the easiest way to launch a Drupal website on dotCloud, it takes 
 less than 2 minutes to get your Drupal site in the Cloud.
 It works out of the box, just follow these easy steps and in the end you'll have your Drupal site running on dotCloud.
